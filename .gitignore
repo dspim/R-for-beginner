@@ -1,0 +1,7 @@
+sessionInfo.log
+.Rproj.user
+.DF_Store
+.RData
+.Rhistory
+.cache-EDA/
+*.Rproj
